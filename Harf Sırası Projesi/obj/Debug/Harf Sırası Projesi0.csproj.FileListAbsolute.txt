@@ -1,0 +1,7 @@
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\bin\Debug\Harf Sırası Projesi0.exe.config
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\bin\Debug\Harf Sırası Projesi0.exe
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\bin\Debug\Harf Sırası Projesi0.pdb
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\obj\Debug\Harf Sırası Projesi0.csprojAssemblyReference.cache
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\obj\Debug\Harf Sırası Projesi0.exe
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\obj\Debug\Harf Sırası Projesi0.pdb
+C:\Users\gokse\source\repos\Harf Sırası Projesi0\Harf Sırası Projesi0\obj\Debug\Harf Sırası Projesi0.csproj.CoreCompileInputs.cache
